@@ -1,3 +1,4 @@
+#for running this code, open cmd in the folder in which you have saved this code and type(manim -pqh your file name.py video name you want)
 from manim import *
 from gtts import gTTS
 import os
